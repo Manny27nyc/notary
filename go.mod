@@ -49,10 +49,10 @@ require (
 	github.com/spf13/pflag v1.0.0 // indirect
 	github.com/spf13/viper v0.0.0-20150530192845-be5ff3e4840c
 	github.com/stretchr/testify v1.5.1
-	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9
-	golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3
-	golang.org/x/sys v0.0.0-20191120155948-bd437916bb0e
-	golang.org/x/term v0.0.0-20201117132131-f5c789dd3221
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/term v0.5.0
 	google.golang.org/grpc v1.0.5
 	gopkg.in/rethinkdb/rethinkdb-go.v6 v6.2.1
 )
